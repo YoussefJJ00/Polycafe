@@ -86,12 +86,6 @@ These previews were generated from the local Polycafe build and reflect the curr
 | Testimonials | ![Testimonials screenshot](screenshots/testimonials.png) |
 | Contact | ![Contact screenshot](screenshots/contact.png) |
 
-To regenerate these images after making UI changes, run:
-
-```bash
-node tools/capture-screenshots.mjs
-```
-
 ## Prerequisites
 
 - A modern web browser
@@ -145,11 +139,6 @@ To make the contact form send mail locally or on a server, you will need to:
 - Replace the default recipient address with a real inbox
 - Configure SMTP if your hosting setup requires it
 
-## Credits
-
-- Design based on the BootstrapMade GP template structure
-- Site content and branding by Youssef Ghouila and Shayma Naffeti
-- Live deployment: https://youssefjj00.github.io/Polycafe/
 
 ## License
 
